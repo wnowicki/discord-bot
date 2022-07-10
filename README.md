@@ -14,12 +14,12 @@ pip freeze > requirements.txt
 ### Virtual Env
 Setup
 ```shell
-python3 -m venv env
+python3 -m venv venv
 ```
 
 Activate
 ```shell
-source env/bin/activate
+source venv/bin/activate
 ```
 
 Deactivate
